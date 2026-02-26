@@ -1,0 +1,6 @@
+**Descripción corta del proyecto:**
+
+Este proyecto es un sistema de monitoreo de temperatura de vacunas que utiliza una estructura de datos tipo cola (Queue)
+para registrar y procesar temperaturas en orden FIFO. 
+El sistema permite ingresar temperaturas, almacenarlas y verificar si están dentro del rango seguro (2 °C a 8 °C), mostrando alertas si existe algún riesgo. 
+Está desarrollado en TypeScript con una interfaz básica en HTML para simular un entorno medico.
